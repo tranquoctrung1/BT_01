@@ -1,9 +1,9 @@
-h1 {
+h2 {
     background: #dfdfdf url(../img/hotgirl.jpg) no-repeat center center;
     background-size: cover;
     color: green
 }
 
-h1 p {
+h2 p {
     color: blanchedalmond;
 }
